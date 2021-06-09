@@ -4,7 +4,7 @@
 ⏩ Technologies used: HTML5, CSS3, JavaScript, JQuery, Bootstrap 4.0, MySQL.
 
 Login page:
-![image](https://user-images.githubusercontent.com/77444767/121438306-30ecd880-c95a-11eb-97c9-0dcea9dcdc20.png)
+![image](https://user-images.githubusercontent.com/77444767/121438566-9ccf4100-c95a-11eb-8bd8-65669f49e9b5.png)
 
 Uploading user:
 ![image](https://user-images.githubusercontent.com/77444767/121438400-5548b500-c95a-11eb-8281-ce11ef3a225c.png)
