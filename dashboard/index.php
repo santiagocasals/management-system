@@ -14,7 +14,6 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta name="description" content="">
       <meta name="author" content="">
-      <link rel="icon" href="https://poloclient.net/img/header/logo_new.png">
       <title>Dashboard - Sistema de administración</title>
       <link href="css/bootstrap.min.css" rel="stylesheet">
       <link href="css/sticky-footer-navbar.css" rel="stylesheet">

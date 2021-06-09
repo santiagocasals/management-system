@@ -1,6 +1,5 @@
 <?php
 	require('config/db.php');
-	$message = "caca";
 	
 	$postUsername = $_POST['username'];
 	$postPassword = $_POST['password'];
